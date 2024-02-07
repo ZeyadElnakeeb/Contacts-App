@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ContactaApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+       <item name="colorPrimary">@color/blue</item>
+        <item name="android:statusBarColor">@color/light_blue</item>
+        
+    </style>
+    <style name="SplashScreenTheem" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <item name="android:statusBarColor">@color/light_blue</item>
+
+
+    </style>
+    
+    
+    
+    
+    <style name="Theme.ContactaApp" parent="Base.Theme.ContactaApp" />
+</resources>
